@@ -6,4 +6,7 @@ this file is editing first time
 
 editing for staging changes
 
-this change is saved stsh now
+this change is saved stash now
+this file is edited on remote repository directly
+using this file i can change somting in my project
+which is useful to all of us
