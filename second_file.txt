@@ -1,4 +1,6 @@
 this is the second file in project
 now i am editing this file first time
 
-editing this file one more time
+editing this the file one more time
+
+editing for stage changes
