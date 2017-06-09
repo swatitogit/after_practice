@@ -4,3 +4,4 @@ now i am editing this file first time
 editing this the file one more time
 
 editing for stage changes
+second file is deleting from new branch
